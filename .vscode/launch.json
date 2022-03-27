@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch NumberValueLauncher",
+            "request": "launch",
+            "mainClass": "lesson1.NumberValueLauncher",
+            "projectName": "learn-Java_5aff195b"
+        },
+        {
+            "type": "java",
+            "name": "Launch with Arguments Prompt",
+            "request": "launch",
+            "mainClass": "",
+            "args": "10 23"
+        }
+    ]
+}
